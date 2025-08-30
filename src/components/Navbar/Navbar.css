@@ -1,10 +1,10 @@
 .Navbar{
     height: 10vh;
     display: flex;
-    gap: 9vw;
     padding-bottom: 8vh;
     border-bottom: 2px solid black;
-
+    background: linear-gradient(135deg, #1737a3 0%, #3b82f6 50%, #1737a3 100%);
+    position: relative;
 }
 
 h1{
