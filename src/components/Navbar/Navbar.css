@@ -1,0 +1,24 @@
+.Navbar{
+    height: 10vh;
+    display: flex;
+    gap: 9vw;
+    padding-bottom: 8vh;
+    border-bottom: 2px solid black;
+
+}
+
+h1{
+    padding-top: 4vh;
+}
+
+.icon{
+    width: 6vw;
+    height: 11vh;
+    margin-left: 69px;
+    padding-left: 11px;
+    padding-top: 3vh;
+}
+
+.icon:hover{
+    cursor:pointer;
+}

@@ -1,0 +1,55 @@
+.table-container {
+    width: 70%;
+    margin: 2.5rem auto 0;
+    overflow-x: auto;
+    font-weight: 500;
+}
+
+.slot-table {
+    width: 100%;
+    font-size: 0.875rem;
+    text-align: center;
+    color: #374151;
+    border: 1px solid #3c8dbc;
+    border-collapse: collapse;
+}
+
+.slot-table thead {
+    background: linear-gradient(to right, #00113b, #004e92);
+    color: white;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    border-bottom: 1px solid #3c8dbc;
+}
+
+.slot-table th,
+.slot-table td {
+    padding: 1rem 1.5rem;
+    border-right: 1px solid #3c8dbc;
+
+    max-width: 150px;
+    width: auto;
+}
+.slot-table th {
+    padding: 1rem 1.5rem;
+    border-right: 1px solid #3c8dbc;
+
+    width: 150px;
+  
+}
+td button {
+    color: white;
+    background-color: #047857;
+    padding: 0.6rem 1rem;
+    font-size: 0.875rem;
+    border-radius: 0.5rem;
+    margin-right: 0.5rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    border:none
+}
+.btn-edit{
+    background-color: #004e92;
+}
+
+
